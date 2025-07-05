@@ -18,7 +18,7 @@ dependencies {
     implementation(libs.junit.jupiter)
 
     // TODO: move to toml
-    implementation("io.github.classgraph:classgraph:4.8.179")
+    implementation("io.github.classgraph:classgraph:4.8.180")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 
     implementation(libs.guava)
